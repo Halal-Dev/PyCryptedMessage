@@ -1,2 +1,3 @@
 # PyCryptedMessage
-Coming soon :) (it's a message cryptor)
+A little message Cryptor/Decryptor written in python 
+it actually uses caesar code
